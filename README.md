@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently learning Python and TypeScript
 - 🤔 &nbsp; Exploring new technologies and developing some stuff for Kurdish language
 - 🎓 &nbsp; B.A. in English Translation
-- 💼 &nbsp; Junior Data Scientist @potan_co
+- 💼 &nbsp; Junior Data Scientist at [Potan](https://github.com/potanco)
 - 🌱 &nbsp; Enthusiast in NLP, Data Science, cyber Security and AI
 
 <h3>🛠 Tech Stack</h3>
