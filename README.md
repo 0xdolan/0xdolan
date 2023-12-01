@@ -18,7 +18,7 @@
 <h3> 🤝🏻 Contact Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/0xdolan_" target="_blank" ><img src="imgs/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://twitter.com/0xdolan" target="_blank" ><img src="imgs/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/0xdolan" target="_blank" ><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:0xdolan@gmail.com" target="_blank" ><img src="imgs/gmail.png"  width="50" /></a>
 </p>
