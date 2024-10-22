@@ -3,15 +3,18 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Python and TypeScript
-- 🤔 &nbsp; Exploring new technologies and developing some stuff for Kurdish language
-- 💼 &nbsp; Python Developer at [Potan](https://github.com/potanco)
-- 🌱 &nbsp; Enthusiast in NLP, Data Science, Cyber Security and AI
+- 🔭 &nbsp; Currently deepening my expertise in Python and TypeScript
+- 🤔 &nbsp; Passionate about discovering innovative technologies and creating projects for the Kurdish language
+- 💼 &nbsp; Python Developer with 10+ years of experience in technology
+- 🌱 &nbsp; Cybersecurity enthusiast with a focus on enhancing organizational security
+
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | TypeScript | JavaScript
-- 🔧 &nbsp; Linux | Visual Studio code | Git
+- 💻 &nbsp; Python | TypeScript | JavaScript | Bash
+- 🔧 &nbsp; Django | FastAPI | NestJS | ReactJS
+- ⚙️ &nbsp; PostgreSQL | MongoDB | MySQL
+- 🐳 &nbsp; Docker | AWS | Git
 
 <br>
 
@@ -23,4 +26,4 @@
 &nbsp; <a href="mailto:0xdolan@gmail.com" target="_blank" ><img src="imgs/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ Serach for me everywhere via: [0xdolan](https://github.com/0xdolan)
+⭐️ Search for me everywhere via: [0xdolan](https://github.com/0xdolan)
