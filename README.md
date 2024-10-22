@@ -16,7 +16,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | TypeScript | JavaScript | Bash
-- 🔧 &nbsp; Django | FastAPI | NestJS | ReactJS
+- 🔧 &nbsp; Django | FastAPI | NestJS
 - ⚙️ &nbsp; PostgreSQL | MongoDB | MySQL
 - 🐳 &nbsp; Docker | AWS | Git
 
