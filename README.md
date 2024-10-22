@@ -1,12 +1,16 @@
 <h2> Hey there! I'm Dolan. <img src="imgs/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="imgs/main.gif" width="500"/>
 
+
+
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Currently deepening my expertise in Python and TypeScript
 - 🤔 &nbsp; Passionate about discovering innovative technologies and creating projects for the Kurdish language
 - 💼 &nbsp; Python Developer with 10+ years of experience in technology
 - 🌱 &nbsp; Cybersecurity enthusiast with a focus on enhancing organizational security
+
+
 
 
 <h3>🛠 Tech Stack</h3>
