@@ -1,33 +1,83 @@
-<h2> Hey there! I'm Dolan. <img src="imgs/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="imgs/main.gif" width="500"/>
+<p></p>
+<p></p>
 
-
-
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🔭 &nbsp; Currently deepening my expertise in Python and TypeScript
-- 🤔 &nbsp; Passionate about discovering innovative technologies and creating projects for the Kurdish language
-- 💼 &nbsp; Python Developer with 10+ years of experience in technology
-- 🌱 &nbsp; Cybersecurity enthusiast with a focus on enhancing organizational security
-
-
-
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | TypeScript | JavaScript | Bash
-- 🔧 &nbsp; Django | FastAPI | NestJS
-- ⚙️ &nbsp; PostgreSQL | MongoDB | MySQL
-- 🐳 &nbsp; Docker | AWS | Git
-
-<br>
-
-<h3> 🤝🏻 Contact Me </h3>
+# Hi, I'm Dolan 👋
+### Software Developer • Cybersecurity Enthusiast
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/0xdolan" target="_blank" ><img src="imgs/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/0xdolan" target="_blank" ><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:0xdolan@gmail.com" target="_blank" ><img src="imgs/gmail.png"  width="50" /></a>
+  <a href="https://github.com/0xdolan">
+    <img src="https://img.shields.io/badge/GitHub-0xdolan-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://twitter.com/0xdolan">
+    <img src="https://img.shields.io/badge/Twitter-@0xdolan-1DA1F2?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/0xdolan">
+    <img src="https://img.shields.io/badge/LinkedIn-Dolan-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:0xdolan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
-⭐️ Search for me everywhere via: [0xdolan](https://github.com/0xdolan)
+---
+
+### 👨🏻‍💻 About Me
+
+```ts
+const dolan = {
+  role: "Python Developer",
+  experience: "10+ years",
+  focus: ["Python", "TypeScript", "Cybersecurity"],
+  passion: "Building innovative technology",
+};
+```
+
+- 🔭 Deepening expertise in **Python** and **TypeScript**
+- 🛡️ Strong interest in **Cybersecurity & secure system design**
+- 🧠 Love exploring **new technologies** and turning ideas into products
+
+---
+
+### 🛠 Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+#### Frameworks & Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xdolan&show_icons=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdolan&layout=compact&theme=transparent" height="160" />
+</p>
+
+---
+
+### 🤝 Let’s Connect
+
+- 💬 Open to collaboration on **Python**, **Security**, and **Tech projects**
+- 🚀 Always learning, always building
+
+⭐ **Find me everywhere as:** [**0xdolan**](https://github.com/0xdolan)
+
+<p></p>
+<p></p>
