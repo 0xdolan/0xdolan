@@ -11,9 +11,6 @@
   <a href="https://twitter.com/0xdolan">
     <img src="https://img.shields.io/badge/Twitter-@0xdolan-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/0xdolan">
-    <img src="https://img.shields.io/badge/LinkedIn-Dolan-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
   <a href="mailto:0xdolan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
@@ -25,7 +22,7 @@
 
 ```ts
 const dolan = {
-  role: "Python Developer",
+  role: "Software Developer",
   experience: "10+ years",
   focus: ["Python", "TypeScript", "Cybersecurity"],
   passion: "Building innovative technology",
