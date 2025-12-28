@@ -63,9 +63,10 @@ const dolan = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xdolan&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdolan&layout=compact&theme=transparent" height="160" />
+  <img src="https://readme-stats-fast.vercel.app/api?username=0xdolan&show_icons=true&theme=transparent" height="160" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=0xdolan&layout=compact&theme=transparent" height="160" />
 </p>
+
 
 ---
 
